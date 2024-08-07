@@ -38,9 +38,9 @@ Dataset Description: The description of the data attributes is given below:
 - comments: Any additional notes or comments.
 
 Expected to:
-- Summarize the dataset
-- Conduct exploratory data analysis to identify factors influencing the mental wellness of the employees
-- Build ML Model to predict the wellness of the employees
-- Derive insights that would help the company to ensure the wellbeing of its employees
-- Present the exploratory analysis, insights and scored results in a deck for top management
+- Summarize the dataset. 
+- Conduct exploratory data analysis to identify factors influencing the mental wellness of the employees. 
+- Build ML Model to predict the wellness of the employees. 
+- Derive insights that would help the company to ensure the wellbeing of its employees. 
+- Present the exploratory analysis, insights and scored results in a deck for top management. 
 
